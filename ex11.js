@@ -5,5 +5,5 @@ function calcularAreaEPerimetro(raio) {
     console.log(`A área da sala circular equivale a ${area} metros quadrados e o perímetro equivale a ${perimetro} metros.`)
 }
 
-raio = 6;
+raio = 7.5;
 calcularAreaEPerimetro(raio);

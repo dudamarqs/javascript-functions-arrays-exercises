@@ -3,4 +3,4 @@ function verMaiorNumero(a, b) {
 }
 
 let maiorNumero = verMaiorNumero(4, 7);
-console.log(maiorNumero)
+console.log(maiorNumero);

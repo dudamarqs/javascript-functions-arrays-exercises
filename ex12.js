@@ -5,4 +5,4 @@ function tabuadaNumero(num) {
 }
 
 num = 5;
-tabuadaNumero(5);
+tabuadaNumero(num);

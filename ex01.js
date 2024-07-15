@@ -2,4 +2,4 @@ function exibirMensagem() {
     console.log('Olá, Mundo!');
 }
 
-exibirMensagem();
+exibirMensagem(); // não recebe parâmetros

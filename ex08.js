@@ -14,7 +14,7 @@ let num = prompt('Digite um número');
 let resultado = calcularFatorial(num);
 console.log(`${num}! = ${resultado}`);
 
-// verifica se o número é válido
+// verifica se o número inserido é válido
 if (!isNaN(num) && num >= 0) {
     let resultado = calcularFatorial(num);
     console.log(`${num}! = ${resultado}`);

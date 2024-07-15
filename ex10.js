@@ -5,6 +5,6 @@ function calcularAreaEPerimetro(altura, largura) {
     console.log(`A área equivale a ${area} metros quadrados e o perimetro equivale a ${perimetro} metros.`)
 }
 
-let altura = 4;
+let altura = 8;
 let largura = 5;
 calcularAreaEPerimetro(altura, largura);
